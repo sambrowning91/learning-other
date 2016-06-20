@@ -1,5 +1,5 @@
-<h1>Commands</h1>
-
+<h1>Git</h1>
+<h2>Commands</h2>
 <table>
   <tr>
     <td>git init</td>
